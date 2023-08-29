@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 
 <details>
   <summary>GitHub Stats</summary>
-    #### 📊 Statistics
-## Github Stats
+  
+#### 📊 Statistics
+  
+
 ![GitHub stars](https://img.shields.io/github/stars/XiaomiRC/XiaomiRC?style=flat-square)
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/XiaomiRC/XiaomiRC?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/XiaomiRC/XiaomiRC?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/XiaomiRC/XiaomiRC?style=flat-square)
 ![Contributed to](https://img.shields.io/github/contributors-anon/XiaomiRC/XiaomiRC/last-year?style=flat-square)
+
 </details>
 
 Feel free to connect and collaborate! Let's code together! 🤝
