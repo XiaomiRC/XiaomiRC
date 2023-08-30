@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XiaomiRC&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?XiaomiRC=your-github-username&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?XiaomiRC=XiaomiRCe&layout=compact&theme=vision-friendly-dark)]
 
 Feel free to connect and collaborate! Let's code together! 🤝
